@@ -1,0 +1,33 @@
+# Default #
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/public/uploads/*
+
+# IDE and editor specific files #
+/nbproject
+.idea
+laradock/
+web.iml
+
+# OS generated files #
+.directory
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+/storage/logs/error/
+/storage/logs/
